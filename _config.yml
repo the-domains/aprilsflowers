@@ -1,7 +1,7 @@
 name: AprilsFlowers
 favicon: null
-layout_spectrum: 0.06617701100185513
-typography_spectrum: 0.9983801504131407
+layout_spectrum: 1
+typography_spectrum: 0.07196
 title: "Flowers are my passion, they make me relax when I can't get to a beach."
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#c3bebb'
     - '#282320'
     - '#59514e'
-  brandStrength: 0.5807853671722114
-  lightness: 0.7385876637417823
-  saturation: 0.873039681930095
-  rhythmicContrast: 0.9632365910802037
+  brandStrength: 0.5
+  lightness: 0.9375
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
