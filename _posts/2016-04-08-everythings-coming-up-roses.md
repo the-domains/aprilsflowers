@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Everything's coming up ROSES!
-datePublished: '2016-06-18T17:38:24.584Z'
-dateModified: '2016-06-18T17:38:07.476Z'
+datePublished: '2016-06-18T17:40:57.274Z'
+dateModified: '2016-06-18T17:40:16.982Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-08-everythings-coming-up-roses.md
@@ -40,7 +40,7 @@ Everything's coming up ROSES!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5e08deb-3b2c-4a41-9b33-5a106510bafe.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb640a65-613a-447f-9790-d5b25d1edd0c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb5a8b5d-3102-456f-bf3b-d156c0bdd58f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e9e16e5-2750-44fe-b136-07430c099ec2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c3f0b00-16e5-49c5-b9b7-c06c63ae5c2f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/25623b41-b3e6-499b-a503-f553fa7743eb.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2eeaa4a-72fe-4618-82c7-ee5821cd9e73.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e9e16e5-2750-44fe-b136-07430c099ec2.jpg)
