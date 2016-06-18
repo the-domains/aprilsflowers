@@ -1,23 +1,18 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: true
 keywords: []
-description: "Everything's coming up ROSES!"
-datePublished: '2016-04-08T07:49:54.704Z'
-dateModified: '2016-04-08T07:49:18.428Z'
+description: Everything's coming up ROSES!
+datePublished: '2016-06-18T17:38:24.584Z'
+dateModified: '2016-06-18T17:38:07.476Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-08-everythings-coming-up-roses.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: false
 url: everythings-coming-up-roses/index.html
 _type: Article
 
@@ -39,7 +34,7 @@ Everything's coming up ROSES!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a253666-1552-4337-b563-5b8298a0584c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/848fae3e-46ef-41fa-831b-867fa7935bec.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42d91f69-c3f5-45da-8d83-5357cb57c5c0.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e096bbdf-6a2f-408f-9987-57fc0d24425a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a3d42eab386a091f78cfdacf91cfbfa3c7b8c4b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57b91e37-144f-4e76-9400-d9e1a482e88a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/23794e0a-d259-4d4e-a560-913a7019e845.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5e08deb-3b2c-4a41-9b33-5a106510bafe.jpg)
